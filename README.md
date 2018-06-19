@@ -1,7 +1,7 @@
 # solita/ubuntu-systemd
 
 A Docker image based on `ubuntu` that runs `systemd` with a minimal set of
-services.
+services. Python has been added to support Ansible.
 
 **This image is meant for development use only. We strongly recommend against
 running it in production!**
